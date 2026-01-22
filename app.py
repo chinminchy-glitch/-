@@ -48,7 +48,7 @@ def analyze(text):
 
     # 3. AI 深度分析
     try:
-        model = genai.GenerativeModel('gemini-2.0-flash')
+        model = genai.GenerativeModel('gemini-2.0-flash-lite')
         ai_prompt = f"你是一位犀利的審計專家。請分析以下文字的貓膩與落地風險：\n\n{text}"
         response = model.generate_content(ai_prompt)
         ai_result = response.text
