@@ -1,3 +1,2 @@
 gradio>=5.7.1
-huggingface-hub>=1.0.0
-google-genai>=1.0.0
+google-genai
