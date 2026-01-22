@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 文明病判定器 - 落地性評估工具",
+  "description": "一個專業級的政策與計畫落地性評估工具，透過關鍵字啟發法與 Gemini AI 深度稽核，診斷計畫是否淪為空談（文明病）。",
+  "requestFramePermissions": []
+}
