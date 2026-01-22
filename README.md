@@ -1,3 +1,17 @@
+---
+title: 文明病判定器
+emoji: 🚀
+colorFrom: blue
+colorTo: red
+sdk: gradio
+sdk_version: 4.44.1
+python_version: 3.11
+app_file: app.py
+pinned: false
+---
+
+# 文明病判定器
+這是一個基於 Gemini AI 的計畫書落地性稽核工具。
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
